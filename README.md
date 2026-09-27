@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Binary Search
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
