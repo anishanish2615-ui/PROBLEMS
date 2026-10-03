@@ -104,4 +104,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0657-robot-return-to-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
