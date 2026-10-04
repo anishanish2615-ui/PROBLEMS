@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
+| [0066-plus-one](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0162-find-peak-element](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
