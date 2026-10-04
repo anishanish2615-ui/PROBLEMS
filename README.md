@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
