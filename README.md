@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Array
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
