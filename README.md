@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0118-pascals-triangle/) | Easy |
+| [0136-single-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
