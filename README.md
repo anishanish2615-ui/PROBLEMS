@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
+| [1037-valid-boomerang](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/1037-valid-boomerang/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1037-valid-boomerang](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/1037-valid-boomerang/) | Easy |
 | [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -136,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1037-valid-boomerang](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/1037-valid-boomerang/) | Easy |
 <!---LeetCode Topics End-->
