@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
