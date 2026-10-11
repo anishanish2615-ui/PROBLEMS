@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
+| [0217-contains-duplicate](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
