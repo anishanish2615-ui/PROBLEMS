@@ -150,4 +150,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1037-valid-boomerang](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/1037-valid-boomerang/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
