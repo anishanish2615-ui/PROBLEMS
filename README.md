@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0645-set-mismatch/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 ## Simulation
