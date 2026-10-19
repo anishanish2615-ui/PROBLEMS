@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1037-valid-boomerang](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/1037-valid-boomerang/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2418-sort-the-people](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2418-sort-the-people/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0048-rotate-image/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
