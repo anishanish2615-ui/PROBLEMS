@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/0268-missing-number/) | Easy |
 | [1037-valid-boomerang](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/1037-valid-boomerang/) | Easy |
+| [2235-add-two-integers](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/2235-add-two-integers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/anishanish2615-ui/PROBLEMS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
